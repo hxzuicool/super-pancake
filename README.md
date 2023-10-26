@@ -1,0 +1,2 @@
+# super-pancake
+Algorithm exercise
